@@ -13,13 +13,13 @@ This project analyzes a dataset of 180 crop trial records covering 5 crop types 
 | Column | Description |
 |---|---|
 | ID | Record identifier |
-| Crop | Crop type (Rice, Palm Oil, Durian, Banana, Corn) |
-| Region | Malaysian state (Pahang, Johor, Melaka, Selangor) |
-| Soil_Quality_Index | Soil quality score (0–100 scale) |
-| Rainfall_mm | Rainfall in millimeters |
-| Avg_Temp_C | Average temperature in Celsius |
-| Fertilizer_kg_per_hectare | Fertilizer applied per hectare |
-| Yield_kg_per_hectare | Crop yield per hectare (target variable) |
+| Crop | Rice, Palm Oil, Durian, Banana, Corn |
+| Region | Malaysia state (Pahang, Johor, Melaka, Selangor) |
+| Soil Quality Index | Soil quality score (0–100 scale) |
+| Rainfall mm | Rainfall in millimeters |
+| Avg Temp C | Average temperature in Celsius |
+| Fertilizer kg/ha | Fertilizer applied per hectare |
+| Yield kg/ha | Crop yield per hectare (target variable) |
 
 ## Methodology
 
