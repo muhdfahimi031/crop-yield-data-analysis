@@ -6,7 +6,7 @@ A data analysis project examining how environmental and management factors affec
 
 This project analyzes a dataset of 180 crop trial records covering 5 crop types (Rice, Palm Oil, Durian, Banana, Corn) across 4 Malaysian regions (Pahang, Johor, Melaka, Selangor). The goal was to identify which factors — soil quality, rainfall, temperature, or fertilizer use — most strongly influence yield outcomes, and to practice core data analysis skills: cleaning, summarizing, correlating, and visualizing data.
 
-**Note:** This dataset was synthetically generated for portfolio-building purposes. It does not represent real farm records, but the analysis methods mirror work I did analyzing 100+ real trial samples during my agronomy internship at Top Fruits Sdn. Bhd., where similar analysis contributed to a 10% improvement in fruit yield efficiency.
+**Note:** This dataset was synthetically generated for portfolio-building purposes. It does not represent real farm records.
 
 ## Dataset
 
